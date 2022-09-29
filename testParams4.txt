@@ -1,0 +1,13 @@
+# All parameters need to be specified
+
+# The standard parameters, as described in the specification:
+maxQueueLength   4 ~ 40
+numServicePoints 1 ~ 40
+closingTime      480
+
+# Parameters added by you:
+averageNewCustomersPerInterval  4
+averageCustomerWaitLimit 7
+customerWaitLimitSD 2
+averageCustomerServeTime 3
+customerServeTimeSD 2

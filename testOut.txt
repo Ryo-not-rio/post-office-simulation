@@ -1,0 +1,7 @@
+arriveRate, tillNum, maxLength, averageWaitLimit, waitLimitSD, averageServeTime, serveTimeSD
+2.000, 1, 5, 20.000, 2.000, 3.000, 1.500
+Average fulfilled customers: 37.500000
+Average unfulfilled customers: 119.600000
+Average timed out customers: 1.600000
+Average of "Average wait time for fulfilled customers": 12.259226
+Average time taken to empty queue after closing: 16.400000
